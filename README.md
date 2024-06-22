@@ -1,5 +1,3 @@
-
-
 ## FakeNewsNet
 
 ## Overview  
