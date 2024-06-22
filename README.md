@@ -2,17 +2,6 @@
 
 ## FakeNewsNet
 
-*** We will never ask for money to share the datasets. If someone claims that s/he has the all the raw data and wants a payment, please be careful. ***
-
-***We released a tool [FakeNewsTracker], for collecting, analyzing, and visualizing of fake news and the related dissemination on social media. Check it out!***
-
-***The latest dataset paper with detailed analysis on the dataset  can be found at [FakeNewsNet]***
-
-**Please use the current up-to-date version of dataset**
-
-Previous version of the dataset is available in branch named `old-version` of this repository.
-
-
 ## Overview  
 
 Complete dataset cannot be distributed because of Twitter privacy policies and news publisher copy rights.  Social engagements and user information are not disclosed because of Twitter Policy. This code repository can be used to download news articles from published websites and relevant social media data from Twitter. 
